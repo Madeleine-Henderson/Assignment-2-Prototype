@@ -1,7 +1,9 @@
 
 ## Party T-shirt ##
 
-
+Madeleine Henderson 
+s5176200
+Prototype assignment 2
 
 ## Related projects: ##
 
@@ -176,7 +178,7 @@ Does this project reflect the intent?
 
 The person wearing the shirt will have multiple options to interact with different functions. If they touch the play button and either one of the other symbols, a melody will play out through the speaker on their back. A range of symbols will also flash on the micro bit. If the person presses button A, the tempo will speed up when playing one of the melodies (this can then be turned off with the reset button on the micro bit). If button B is pressed the micro bit will display any text coded into the micro bit (in this case “maddie Henderson.” If the person wearing the shirt falls over a sad melody will play. If the person is dancing the micro bit will flash a range of different icons.
 
-# materials to be used
+# materials to be used:
 Aluminium, electric paint, 2x t-shirts, crocodile clips, micro bit, tape, Velcro strips, a mini speaker.
 
 # Aesthetic: 
@@ -190,17 +192,131 @@ This product will maintain a very simple/ minimal design. It will be very contra
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+# Experimenting with materials: 
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+Connections: 
+
+Insert image bread board 
+
+I first attempted to use the bread board with the male and female leads. This allowed for a more secure connection with the micro bit, but the leads were too short and were not reliable and durable enough to stay attached to the pinpoints. By using these leads with the bread board, it, meant that the shirt would be weighed down and very uncomfortable and unpractical.
+
+
+Insert image  
+
+I then tried using crocodile clips. These connectors allowed me to have more length, a secure connection to the pinpoints, and meant that I did not have to use the bread board, which will make the shirt a lot more wearable and comfortable. The main concern I had with these connectors is connecting them all securely to the micro bit, as I found you had to be very particular about where you placed them. From experimenting with this issue, I found that I could use a material like tape to secure these in place.  This made the connections secure as well as water resistant. 
+
+Sound: 
+
+Earphones
+
+Insert image 
+
+I first experimented with earphones, these were easy enough to connect and the cord length wasn’t too excessively long. Although I found the placement of the earphones and this design was a little awkward. One piece would be longer then the other and I also found that the sound output was not ideal. The sound was a little quieter out of the earphones when It was around the neck, but way to loud when placed in ears. 
+
+speaker
+Insert image
+
+I then tried a small speaker that was a lot better with the intended design. I gave an okay sound output and wasn’t going to be annoying when wearing the shirt. The only issue I found was the length of the cord, which I was able to resolve by using tape again. 
+
+Conductors:
+
+Aluminium
+
+Insert image
+
+I initially experimented with this material, it worked well, but it is not sustainable and practical for this project. 
+
+Electrical paint
+
+Insert image 
+
+This material is a black paint that is electrically conductive. This allows the connection to work through the shirt and it is a lot more sustainable and practical. 
+
+
+# Coding experimentation: 
+
+When playing around with the coding I first looking at creating the music. I did some investigating into song that have been created through tones on a micro bit and was able to find a few videos. 
+
+https://www.youtube.com/watch?v=eGNZXILCjyo 
+https://www.youtube.com/watch?v=OSiVhUzqNAU 
+
+I then replicated the code/ figured it out and added this into my project.
+
+
+I also experimented with different button functions, I wanted to see if I could add another party element to the design. I experimented with the compass, which I didn’t find very practical to use as part of this design. I also looked into temperature which I found was very accurate for where the micro bit is positioned, as well as not be relevant to the project intent. I also look at having the micro bit record how many movements I made, but this was again inaccurate and not relevant. 
+
+Insert image of trials 
+
+I also experimented with adjusting the tempo speed, which I found fitting for this project, adding another element to the party intent and making it more interactive.
+
+Insert image 
+
+I also experimented with icons and text, which I decided to use for button B. I added my name in as text into the micro bit, I thought this is a practical and unique function to have, as it will make the product feel more personalised, as well as being a potential safety measure for being in a party environment. The name could even be swapped out for important information in case the person wearing the shirt gets hurt etc.  
+ 
+Insert image 
+ 
+I also experimented with incorporating led lights into the design. I found this very difficult without a bread board, so I resorted to using a battery, but I forgot to place a resistor, so I fried my led lights. I found that these lights where not very effective anyways, but when finalising my project, I may see if I can find a way to still attach the lighting.  
+
+Accelerometer
+ 
+This was also something I experimented with, testing out different sounds I could incorporate with different actions. 
+
+Insert image 
+
 
 ![Image](missingimage.png)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+# Coding: 
+
+
+Insert image 
+
+              Firstly, I created the coding for the Accelerometer features. Creating a “on shake” and “free fall” reaction. On shaking the micro bit, the led lights will display a pattern, rotating 4 time through 4 different images. Then of the free fall I added in a “sad” melody so that when a person wearing the shirt falls over or jumps around, the micro bit will express these actions in response and in adding more interaction. I also included an icon under “on start” I wanted to use this icon throughout the entire function of the shirt, to make it all tie together. 
+
+
+Insert image 
+
+Next I created the coding for the A and B button functions. For button A I created a tempo function, this allows for the user to be able to speed up the tunes playing. I made the function increase the tempo by 25%. For button B I added in the text function which I set to present my name. At the end of each command I included the square icon I had in the first section, this is to set the screen back to this defult image. 
+
+Insert image 
+
+Next I created the code for Pin 1. For this pin I wanted to create a melody of a popular and fun party song, so I replicated the tune of “shooting Stars” by Bag Raiders. This was a bit of a tedious process, but I only replicated a small portion of the key part of the song, I then put this on repeat 4 times to get the full effect of the song. I also included some star symbols that flash after the song plays, this ties into the visuals of the design, replicating the start symbol on the shirt. Lastly I again set the icon back to the default square. 
+
+Insert images
+
+Next I created the code for Pin 2. Again, I replicated the melody of a popular party song, “Despacito” by Luis Fonsi. This was very, very tedious as I included a large part of the song, this was to give more variety in the time that a melody plays for, as well as playing enough of the song to make it recognisable to listeners. Again, I added in song note symbols at the bottom and the default square icon.
+
+# Overview of coding: 
+
+Insert image 
+
+# Building the physical project
+
+Insert image 
+
+Firstly, I began by connecting all the cords to the conductors and the micro bit. Note that at this point in time I used aluminium foil as I had not yet received electric paint was still trialling and experimenting with materials.  
+
+Insert image 
+
+Next I began to secure all the connections and wires; this was to ensure that nothing would come loss and to keep everything together neatly. To do this I used white insulation tape. This keeps everything in its place, as well as keeping the connections waterproof. One area of concern I discovered in this section, was the durability of the tape over a period of time, tape isn’t the most effective and sustainable material, but improving this maybe something to look into when finalising my project. 
+
+Insert image 
+
+Next I attached all the components to the underlayer shirt. To do this I decided to us Velcro, as this will secure the components in place, whilst making them easily removed to be able to wash the shirt. To do this I stitched the pieces of Velcro to the shirt in the allocated places and used hot glue to attach it to the other components.   
+ 
+Insert image 
+
+Next I placed the top layer of the shirt over the bottom layer and mapped out where I would need to cut or paint. I then cut out a small rectangle in the top shirt, that allowed for the buttons and led lights to be visible. I also did the same on the back of the shirt for the speaker. When mapping out and matching both layers on the shirt, I lightly sketched out an outline of where the paint is to be applied. 
+
+Insert image 
+
+Lastly, I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
+ 
+Insert image 
+
+# Over view of the project: 
+
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+ Moving forward from here I will continue to refine the project. I want to neaten up the cords and the layout on the base layer of the shirt, making it more comfortable and putting better insulation on the connections. I want to make this more sustainable and practical, as well as messing the two shirts together. I also want to see if I can find a way to incorporate some extra lights. 
