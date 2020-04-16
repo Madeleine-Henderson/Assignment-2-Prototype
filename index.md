@@ -13,7 +13,7 @@ Illuminated Apparel
 
 https://www.youtube.com/watch?v=SJxW6BZEfkE  
 
-![Image](missingimage.png)
+![Image](1.png)
 
 This brand has created an interactive glow in the dark shirt. This shirt is drawn on with a special digital pen that has a glow output. This project relates to mine, as this shirt is designed to be used in party scenes or in the dark. 
 
@@ -28,8 +28,8 @@ How does this relate/ help with my project?
 ZEROi : Smart Hat with Bone Conduction Technology 
 
 https://www.kickstarter.com/projects/781010162/cap-on-sound-on  
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](2.png)
+![Image](3.png)
 
 This hat uses bone conducting technology to replace the use of earphones and make day to day life more simplified with a hat that plays your music, does phone calls etc. This is all built into a waterproof cap. This project relates to mine as it is using a common piece of clothing and gives it another add on purpose. 
 
