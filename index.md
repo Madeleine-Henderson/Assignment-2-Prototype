@@ -47,8 +47,8 @@ How does this relate/ help with my project?
 Blinky shoes 
 
 https://www.kickstarter.com/projects/1161431643/blinkyshoes 
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](4.png)
+![Image](5.png)
 
 This product allows for attachable led light strips that use an accelerometer to light up whatever part of your foot hits the ground. The more movement means the more vigorous the lights will flash. 
 
@@ -64,7 +64,7 @@ This product allows for attachable led light strips that use an accelerometer to
 Smart T-shirt with heart rate monitor by AiQ
 
 https://www.youtube.com/watch?v=45284tobm0c
-![Image](missingimage.png) 
+![Image](6.png) 
 
 This iteam is built into clothing to monitor and provide data on a persons heart rate. This works through connections around the shirt which are then sent to a detachable pin on the shirt which provides a bluetoon signal to send the data to a smart phone. What stood out to me with this design is how it is built into the shirt. There is very minimal wiring/ elements to make this work. What also stood to me is how the pin is detachable and practical to make washing easy etc. These are deffinity things for me to consider when design and building my project. 
 
@@ -78,7 +78,7 @@ This iteam is built into clothing to monitor and provide data on a persons heart
 Dont Touch: Social Appropriateness of Touch Sensor Placement on Lumalive E-Textile Shirts 
 
 https://www.youtube.com/watch?v=Is2mrD0KWjs
-![Image](missingimage.png)  
+![Image](7.png)  
 
 This experiment used sensors places on various parts of the shirt to determine the ideal locations for using sensors on that type of clothing/ part of the body. This is eye opening for me as it allows me to see where ideal places to put touch sensors would be. However the idea im am currently going with doesn’t involve other people touching the shirt, although this is good information to consider when designing and building my project.
 
@@ -86,7 +86,7 @@ This experiment used sensors places on various parts of the shirt to determine t
 Flora Brake Light Backpack
 
 https://www.youtube.com/watch?v=KwNGdAZKIr8
-![Image](missingimage.png)   
+![Image](8.png)   
 
 This project uses accelerometer sensors to indicate when a driver/user has stopped as well as indicating with turning signals. All of this is done with the use of accelerometer sensors that connect to led lights. This is an interesting project that I will consider during the process of building my design. What stood out to me and relates mostly to my project is the use of those sensors, they will definitely be something to incorporate into my project. 
 
@@ -160,7 +160,7 @@ notes:
 - what shoes would this work with? 
 
 ### Design concept sketches ###
-![Image](missingimage.png)  
+![Image](9.png)  
 
 ### Final design concept ###
 4.	A shirt that plays different songs and lights up with different movements.
@@ -172,7 +172,8 @@ Does this project reflect the intent?
  Yes, this project has achieved the idea of a “wearable party” allowing for the user to be able to engage with party music and interact with the shirt wherever they go. 
 
 
-![Image](missingimage.png)
+![Image](10.png)
+![Image](11.png)
 
 # How it will work:
 
