@@ -308,7 +308,7 @@ Insert image
 
 Lastly, I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
  
-Insert image 
+Insert image  
 
 # Over view of the project: 
 
