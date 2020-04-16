@@ -1,23 +1,82 @@
-# 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
+## Party T-shirt ##
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
+## Intent: 
+To create a wearable party. 
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Concept ideas: 
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+1.	A fun party hat. This would include a disco ball attached to the top of the hat. The micro bit will create light up sequences and basically turn the hat into all the lighting equipment needed for a party, as well at making the person wear it look goofy and give everyone a bit of a laugh. 
+
+
+2.	Arm bands that light up with particular movements. 
+
+
+3.	Party shoes that play different tunes depending on the type of moment. 
+
+
+4.	A shirt that plays different songs and lights up with different movements.
+
+From all these concepts I decided that #4 is what I will create and further investigate into. I chose this concept as I felt that it suited and intent the best and was the most practical. The shirt idea means that it can be targeted at any gender, age etc, and it a practical and comfortable piece of clothing that people would usually wear to a party environment. This concept is also very doable considering having access to all the materials needed, as well as having a lot of potential to further develop. This concept will allow not only the person wearing this piece, to be able to interact and engage, but also the people around them. 
+
+
+## Related projects: ##
+
 
 ### Related project 1 ###
-*Insert name of project*
+Illuminated Apparel 
 
-*Insert URL to project*
+https://www.youtube.com/watch?v=SJxW6BZEfkE  
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This brand has created an interactive glow in the dark shirt. This shirt is drawn on with a special digital pen that has a glow output. This project relates to mine, as this shirt is designed to be used in party scenes or in the dark. 
+
+How does this relate/ help with my project? 
+
+-	The use of light really helps portray that party vibe
+-	Light sequences – potentially customisable 
+-	These shirts are machine washable – how can I make my shirt like this? 
+-	Simple t-shirt designs.
+
+### Related project 2 ###
+ZEROi : Smart Hat with Bone Conduction Technology 
+
+https://www.kickstarter.com/projects/781010162/cap-on-sound-on  
+![Image](missingimage.png)
+![Image](missingimage.png)
+
+This hat uses bone conducting technology to replace the use of earphones and make day to day life more simplified with a hat that plays your music, does phone calls etc. This is all built into a waterproof cap. This project relates to mine as it is using a common piece of clothing and gives it another add on purpose. 
+
+How does this relate/ help with my project? 
+
+-	Simple design 
+-	Waterproof -will this be something I need to consider with my design? 
+-	Built in invisible components – can achieve this in my design with multiple layers 
+-	 Sound close to ears – consider position of the speaker 
+-	Works through bone conduction technology – could this be something to consider? 
+-	The downside to this hat is that it is extremely expensive and only comes in limited styles. 
+-	This hat is also chargeable but does have a small battery life – consider battery life with design.
+
+### Related project 3 ###
+Blinky shoes 
+
+https://www.kickstarter.com/projects/1161431643/blinkyshoes 
+![Image](missingimage.png)
+![Image](missingimage.png)
+
+This product allows for attachable led light strips that use an accelerometer to light up whatever part of your foot hits the ground. The more movement means the more vigorous the lights will flash. 
+
+  How does this relate/ help with my project? 
+  
+-	Can work with all shapes and sizes of the product – consider different sized clothing 
+-	Bright colours and a range of different colours really give off that party vibe
+-	Uses an accelerometer- consider this or maybe other sensors?
+-	How durable are the led lights – consider the lights available 
+-	What sequences could be used and how and when? 
+
+### Related project 3 ###
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
