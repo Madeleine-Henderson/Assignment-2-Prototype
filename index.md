@@ -304,7 +304,7 @@ Next I attached all the components to the underlayer shirt. To do this I decided
 
 Next I placed the top layer of the shirt over the bottom layer and mapped out where I would need to cut or paint. I then cut out a small rectangle in the top shirt, that allowed for the buttons and led lights to be visible. I also did the same on the back of the shirt for the speaker. When mapping out and matching both layers on the shirt, I lightly sketched out an outline of where the paint is to be applied. 
 
-Insert image 
+![Image](33.png)
 
 Lastly, I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
  
