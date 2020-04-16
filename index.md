@@ -246,15 +246,15 @@ I then replicated the code/ figured it out and added this into my project.
 
 I also experimented with different button functions, I wanted to see if I could add another party element to the design. I experimented with the compass, which I didn’t find very practical to use as part of this design. I also looked into temperature which I found was very accurate for where the micro bit is positioned, as well as not be relevant to the project intent. I also look at having the micro bit record how many movements I made, but this was again inaccurate and not relevant. 
 
-Insert image of trials 
+![Image](19.png)
 
 I also experimented with adjusting the tempo speed, which I found fitting for this project, adding another element to the party intent and making it more interactive.
 
-Insert image 
+![Image](20.png)
 
 I also experimented with icons and text, which I decided to use for button B. I added my name in as text into the micro bit, I thought this is a practical and unique function to have, as it will make the product feel more personalised, as well as being a potential safety measure for being in a party environment. The name could even be swapped out for important information in case the person wearing the shirt gets hurt etc.  
  
-Insert image 
+![Image](21.png)
  
 I also experimented with incorporating led lights into the design. I found this very difficult without a bread board, so I resorted to using a battery, but I forgot to place a resistor, so I fried my led lights. I found that these lights where not very effective anyways, but when finalising my project, I may see if I can find a way to still attach the lighting.  
 
@@ -262,10 +262,7 @@ Accelerometer
  
 This was also something I experimented with, testing out different sounds I could incorporate with different actions. 
 
-Insert image 
-
-
-![Image](missingimage.png)
+![Image](22.png)
 
 ## Design process discussion ##
 # Coding: 
