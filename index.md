@@ -189,7 +189,7 @@ This product will maintain a very simple/ minimal design. It will be very contra
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](12.png)
 
 ## Physical experimentation documentation ##
 
@@ -197,12 +197,12 @@ This product will maintain a very simple/ minimal design. It will be very contra
 
 Connections: 
 
-Insert image bread board 
+![Image](13.png)
 
 I first attempted to use the bread board with the male and female leads. This allowed for a more secure connection with the micro bit, but the leads were too short and were not reliable and durable enough to stay attached to the pinpoints. By using these leads with the bread board, it, meant that the shirt would be weighed down and very uncomfortable and unpractical.
 
 
-Insert image  
+![Image](14.png) 
 
 I then tried using crocodile clips. These connectors allowed me to have more length, a secure connection to the pinpoints, and meant that I did not have to use the bread board, which will make the shirt a lot more wearable and comfortable. The main concern I had with these connectors is connecting them all securely to the micro bit, as I found you had to be very particular about where you placed them. From experimenting with this issue, I found that I could use a material like tape to secure these in place.  This made the connections secure as well as water resistant. 
 
@@ -210,12 +210,12 @@ Sound:
 
 Earphones
 
-Insert image 
+![Image](15.png)
 
 I first experimented with earphones, these were easy enough to connect and the cord length wasn’t too excessively long. Although I found the placement of the earphones and this design was a little awkward. One piece would be longer then the other and I also found that the sound output was not ideal. The sound was a little quieter out of the earphones when It was around the neck, but way to loud when placed in ears. 
 
 speaker
-Insert image
+![Image](16.png)
 
 I then tried a small speaker that was a lot better with the intended design. I gave an okay sound output and wasn’t going to be annoying when wearing the shirt. The only issue I found was the length of the cord, which I was able to resolve by using tape again. 
 
@@ -223,13 +223,13 @@ Conductors:
 
 Aluminium
 
-Insert image
+![Image](17.png)
 
 I initially experimented with this material, it worked well, but it is not sustainable and practical for this project. 
 
 Electrical paint
 
-Insert image 
+![Image](18.png)
 
 This material is a black paint that is electrically conductive. This allows the connection to work through the shirt and it is a lot more sustainable and practical. 
 
