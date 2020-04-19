@@ -306,11 +306,32 @@ Next I placed the top layer of the shirt over the bottom layer and mapped out wh
 
 ![Image](33.png)
 
-Lastly, I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
+Next I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
  
-Insert image  
+![Image](01.png)
+
+![Image](02.png)
+
+I also painted the inside of the shirt to make sure the paint would go through both the inside and outside of the shirt to make the connection. 
+
+![Image](03.png)
+
+Lastly, I swapped out the aluminium conductors and valcroed the crocodile clips to line up with the paint.
+
+![Image](04.png)
 
 # Over view of the project: 
+
+inside shirt: 
+![Image](05.png)
+
+back of the shirt:
+![Image](06.png)
+
+front of the whole built shirt:
+![Image](07.png)
+
+link to the video of the shirt function: 
 
 
 ## Next steps ##
