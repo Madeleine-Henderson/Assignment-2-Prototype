@@ -264,6 +264,10 @@ Accelerometer. This was also something I experimented with, testing out differen
 
 ![Image](23.png)
 
+link to the video of experimenting and trialling the shirt function:
+
+https://youtu.be/5suhrszodZA 
+
 ## Design process discussion ##
 # Coding: 
 
@@ -333,6 +337,7 @@ front of the whole built shirt:
 
 link to the video of the shirt function: 
 
+https://youtu.be/y1OrvKsspsA 
 
 ## Next steps ##
  Moving forward from here I will continue to refine the project. I want to neaten up the cords and the layout on the base layer of the shirt, making it more comfortable and putting better insulation on the connections. I want to make this more sustainable and practical, as well as messing the two shirts together. I also want to see if I can find a way to incorporate some extra lights. 
